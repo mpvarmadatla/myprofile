@@ -1,0 +1,110 @@
+
+body{
+  margin:0;
+  text-align: center;
+ font-family: 'Merriweather', serif;
+ color:#40514E;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin:50px auto 0 auto;
+  font-family:  "Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;;
+  color:#66BFBF;
+  line-height: 2;
+ }
+
+ h2{
+   font-size:2.5rem;
+   font-family: Verdana  sans-serif;
+   color: #66BFBF;
+   font-weight: normal;
+   padding-bottom:10px;
+ }
+ h3{
+   font-family: Verdana sans-serif;
+   color:#11999E;
+   font-size: 30px;
+ }
+ p{
+   line-height: 2;
+   font-size:20px;
+ }
+ hr{
+   border:dotted #EAF6F6 6px;
+   border-bottom:none;
+   width:4%;
+   margin:100px auto;
+ }
+ .topcontainer {
+   background-color: #E4F9F5;
+   padding:5px 0 5px;
+   position:relative;
+ }
+ .middle-container{
+   margin: 100px 0;
+ }
+ .bottom-container{
+   background-color:#66BFBF;
+   padding: 20px 0 20px;
+ }
+ .skill-row{
+   width:50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+
+ }
+
+ .pro{
+   text-decoration: underline;
+ }
+ .intro{
+   width:35%;
+   margin:auto;
+ }
+
+.footer-link{
+  color:#11999E;
+}
+.right{
+  color:#EAF6F6;
+  font-size: 1rem;
+}
+.code{
+  background-color: #E4F9F5;
+  width:25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.politics{
+  background-color: #E4F9F5;
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+.man{
+  width:15%
+}
+.btn{
+  color:brown;
+}
+.edu{
+  width:10%;
+  background-color:#E4F9F5;
+}
+.html{
+  width:5%;
+  margin:5px;
+  float:left;
+}
+.css{
+  width:5%;
+  margin:5px;
+  float:left;
+}
+.javascript{
+  width:5%;
+  margin:5px;
+  float:left;
+}
